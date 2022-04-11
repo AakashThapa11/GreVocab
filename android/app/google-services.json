@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609613894861",
+    "project_id": "gre-vocab-c288e",
+    "storage_bucket": "gre-vocab-c288e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609613894861:android:07e9718549c2678ac28584",
+        "android_client_info": {
+          "package_name": "com.atc.gre_vocab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609613894861-gbk9u4sf32276uj1nctq7t5it10r8unh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCL6jspTcbC5lVCqzKp2V4Tl-lvzUl8wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609613894861-gbk9u4sf32276uj1nctq7t5it10r8unh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
